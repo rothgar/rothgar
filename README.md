@@ -1,6 +1,6 @@
 # Justin Garrison
 
-![Profile][img/profile.jpeg]
+![Profile](img/profile.jpeg)
 
 Justin maintains a blog at [](http://justingarrison.com).
 He has some code on [GitHub](https://github.com/rothgar) and [GitLab](https://gitlab.com/jgarr).
