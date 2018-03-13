@@ -18,3 +18,6 @@ Video coming
 
 ## Linux as a HTPC - SoCal Linux Expo 9x (2011)
 [Slides](https://docs.google.com/presentation/d/1H9JVE7XmyatkgNybRQWesG960XUv36KXfUSUNfm73tI/edit?usp=sharing&authkey=CPL1zOwF)
+
+## Podcasting with Linux lightning talk - SoCal Linux Expo 8x (2010)
+(no slides or recording available)
