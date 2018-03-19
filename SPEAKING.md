@@ -1,7 +1,7 @@
 ## Cloud Native Infrastructure - SoCal Linux Expo 16 (2018)
 [Slides](http://bit.ly/cni-scale-16)
 
-Video coming
+[Video](https://youtu.be/9t4aMPF1UYU?t=6h49m35s)
 
 ## Kubecon North America (2017)
 [Slides](https://docs.google.com/presentation/d/1-G6M87PUVkrNjCwxtXjqHfwmKF5FJxTD_7vfRzDFFCc/edit?usp=sharing)
