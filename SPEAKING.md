@@ -33,9 +33,15 @@
 ### Austin Kubernetes
 [Event](https://www.meetup.com/Kubernetes-Austin/events/242952902)
 
-## Podcasts
+## Podcasts and Interviews
 ### Cloud Unfiltered
 [Link](https://blogs.cisco.com/cloud/cloud-unfiltered-podcast-episode-35-talking-cloud-native-with-justin-garrison)
 
 ### L8ist Sh9y Podcast
 [Link](https://www.rackn.com/2018/04/02/podcast-justin-garrison-on-cloud-native-infrastructure-immutability-observability-and-much-more/)
+
+### The New Stack
+[Link](https://thenewstack.io/what-is-storage-to-cloud-native/)
+
+### The Cube
+[Link](https://www.youtube.com/watch?v=ij20l4NLXrY)
