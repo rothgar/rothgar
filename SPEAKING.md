@@ -34,6 +34,9 @@
 [Event](https://www.meetup.com/Kubernetes-Austin/events/242952902)
 
 ## Podcasts and Interviews
+### Open Source Show: Cloud Native Infrastructure
+[Link](https://youtu.be/UlDfNC3I15k)
+
 ### Cloud Unfiltered
 [Link](https://blogs.cisco.com/cloud/cloud-unfiltered-podcast-episode-35-talking-cloud-native-with-justin-garrison)
 
