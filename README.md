@@ -13,5 +13,6 @@ He is available on the following social networks
 - [linkedin](https://www.linkedin.com/in/justingarrison/)
 - [snapchat](https://snapchat/add/rothgar)
 
-He is available on [keybase](https://keybase.io/rothgar) and old fashion email justin@linux.com
+He is available via email at justin@linux.com
 
+If you'd like to schedule a call use [calendly](https://calendly.com/justingarrison/30min)
