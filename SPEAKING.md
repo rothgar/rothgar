@@ -1,7 +1,7 @@
 ## Conferences
 
 ### Mastering ZSH workshop - LISA (2019)
-[CFP]('cfp/2019.10_-_LISA_-_Mastering_zsh.md')
+[CFP](cfp/2019.10_-_LISA_-_Mastering_zsh.md)
 
 [Content](https://github.com/rothgar/mastering-zsh)
 
