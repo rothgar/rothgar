@@ -1,10 +1,19 @@
 ## Conferences
+
+### Mastering ZSH workshop - LISA (2019)
+[CFP]('cfp/2019.10_-_LISA_-_Mastering_zsh.md')
+
+[Content](https://github.com/rothgar/mastering-zsh)
+
+[Link](https://www.usenix.org/conference/lisa19/presentation/garrison)
+
+
 ### Cloud Native Infrastructure - SoCal Linux Expo 16 (2018)
 [Slides](http://bit.ly/cni-scale-16)
 
 [Video](https://youtu.be/9t4aMPF1UYU?t=6h49m35s)
 
-### Kubecon North America (2017)
+### Let's Build Kubernetess - Kubecon North America (2017)
 [Slides](https://docs.google.com/presentation/d/1-G6M87PUVkrNjCwxtXjqHfwmKF5FJxTD_7vfRzDFFCc/edit?usp=sharing)
 
 [Video](https://bit.ly/justing-kubecon-na-2017)
@@ -34,6 +43,9 @@
 [Event](https://www.meetup.com/Kubernetes-Austin/events/242952902)
 
 ## Podcasts and Interviews
+### The Kubernetes Phonomenon
+[Link](https://www.sumologic.com/webinar/kubernetes-phenomenon/)
+
 ### Open Source Show: Cloud Native Infrastructure
 [Link](https://youtu.be/UlDfNC3I15k)
 
