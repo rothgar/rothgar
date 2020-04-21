@@ -60,3 +60,6 @@
 
 ### The Cube
 [Link](https://www.youtube.com/watch?v=ij20l4NLXrY)
+
+### Kubicast
+[Episode 41](https://blog.getupcloud.com/kubicast-41-c37959051100)
