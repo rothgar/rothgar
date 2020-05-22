@@ -1,1 +1,4 @@
-Justin loves open source almost as much as he loves community. He is not a fan of buzz words but searches for the patterns and benefits behind technology trends. He frequently shares his findings and tries to disseminate knowledge through practical lessons and unique examples. He is an active member in many communities and constantly questions the status quo. He is relentless in trying to learn new things and giving back to the communities who have taught him so much.
+Justin loves people—all people.
+He's excited about learning from them, working with them, and helping them be better versions of themselves.
+He is an author, maker, and teacher.
+He made oscar winning movies, built Disney+, and improves cloud services for everyone.
