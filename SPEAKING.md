@@ -1,12 +1,16 @@
 ## Conferences
 
+### Virtual Rejekts 2020
+[Slides](https://docs.google.com/presentation/d/1imbiBO89CtPNxAR4HgW2Vl5V7a3QSvwJrsvC-QE9l9o/edit?usp=sharing)
+
+[Video](https://youtu.be/zDeDH0a2WsE)
+
 ### Mastering ZSH workshop - LISA (2019)
 [CFP](cfp/2019.10_-_LISA_-_Mastering_zsh.md)
 
 [Content](https://github.com/rothgar/mastering-zsh)
 
 [Link](https://www.usenix.org/conference/lisa19/presentation/garrison)
-
 
 ### Cloud Native Infrastructure - SoCal Linux Expo 16 (2018)
 [Slides](http://bit.ly/cni-scale-16)
@@ -32,7 +36,9 @@
 ### Podcasting with Linux lightning talk - SoCal Linux Expo 8x (2010)
 (no slides or recording available)
 
+
 ## Meetups
+
 ### Cloud Native Utah
 [Event](https://www.meetup.com/Cloud-Native-Utah/events/nnvhmpyxgbnb/)
 
@@ -63,3 +69,6 @@
 
 ### Kubicast
 [Episode 41](https://blog.getupcloud.com/kubicast-41-c37959051100)
+
+### Popcast
+[Episode 14](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-14-devops-checklists-cloud-native-inf-and-disney)
