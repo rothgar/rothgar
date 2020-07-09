@@ -1,11 +1,8 @@
 # Justin Garrison (He/Him)
 
 Justin maintains a blog at [justingarrison.com](http://justingarrison.com).
-He has some code here on [GitHub](https://github.com/rothgar) and [GitLab](https://gitlab.com/jgarr).
 You can check out the book he co-authored [Cloud Native Infrastructure](http://www.cnibook.info).
-Find his past speaking engagements in [SPEAKING.md](SPEAKING.md).
-A speaking BIO is available in [BIO](BIO.md).
-Justin has profile pictures and headshots available in [the img folder](img/profile_small.jpeg).
+Find his [past speaking engagements](https://github.com/rothgar/rothgar/blob/master/SPEAKING.md), a [speaker bio](https://github.com/rothgar/rothgar/blob/master/BIO.md), and headshots [here](https://github.com/rothgar/rothgar/tree/master/img).
 
 If you would like Justin to speak at your event or company for work please email him at rothgar@amazon.com
 If you would like Justin to speak at your community event for personal or open source please email him at justin@linux.com
