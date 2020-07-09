@@ -16,4 +16,5 @@ He is available at
 - [linkedin](https://www.linkedin.com/in/justingarrison/)
 - [resume](https://www.justingarrison.com/resume.html)
 
-If you'd like to schedule a call use [calendly](https://calendly.com/justingarrison/30min)
+If you'd like to schedule a call use [calendly](https://calendly.com/justingarrison/30min).
+Please contact me first or I will decline the invite.
