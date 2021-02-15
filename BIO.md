@@ -1,4 +1,3 @@
-Justin loves people.
-He's excited about learning from them, working with them, and helping them be better versions of themselves.
-He is an author, maker, teacher, and always a student.
-He has helped make oscar winning movies, built infrastructure for Disney+, and currently improves cloud services for everyone.
+Justin is a developer advocate at AWS where he helps improve container services for everyone.
+In the past he has helped make oscar winning movies, built infrastructure for Disney+, and has been active in open source for a long time.
+In his spare time he enjoys tinkering with hardware and software and streaming Moana on repeat.
