@@ -1,0 +1,17 @@
+# CI/CD: Continuous Infrastructure / Cluster Demand
+
+## Conference
+All Day Devops
+
+## Abstract
+It doesn't matter if you do it the hard way or with opinionated tooling, Kubernetes cluster creation is a solved problem.
+But how many clusters do you need?
+The correct amount is N+1.
+How can you manage that many clusters, upgrades, security patching, and guarantee workload availability?
+We'll look at common patterns for cluster deployments, upgrades, and what components should be decoupled by explaining how the patterns work and how they can be applied to any environment.
+
+### Track
+Modern Infrastructure
+
+### Status
+Submitted
