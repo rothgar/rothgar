@@ -1,0 +1,21 @@
+# The Mythical Multi-Cluster Month
+
+## Conference
+Kubecon NA
+
+## Abstract
+There's a prevalent theory that adding one more cluster will solve your problems.
+It'll unblock that team, or enable that new project to be successful.
+But the cluster sprawl and management overhead can slow you down.
+Local optimization can have big impacts to the global organization.
+In this talk we'll look at operating cluster scale at scale.
+What patterns can we learn from the past to help us plan for future growth, and what tools exist to help us get there?
+
+## Benefits to the ecosystem
+There are a lot of tools that help with parts of multi-cluster management (provisioning, configuration, deployments, networking) but rarely do talks or tools talk about the complete considerations of when to use multiple clusters or when something like multi-tenancy is a better option.
+Many talks focus on how they can optimize one portion but it's hard to put those things into practice without understanding how tools fit together or what day 2 operations really look like.
+This talk attempts to address some of those areas for multiple use cases such as multi-cluster for environment splits, for team/application isolation, for on-prem/off-prem, and for multi-region deployments.
+Focusing mostly on cluster operators and how their choices impact application developers.
+
+## Status
+Submitted
