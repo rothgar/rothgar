@@ -1,4 +1,4 @@
-# Justin Garrison (He/Him)
+![](./img/1.gif)
 
 Justin maintains a blog at [justingarrison.com](http://justingarrison.com).
 He has a newsletter to teach you how to be a better developer at [123dev.email](https://123dev.email).
