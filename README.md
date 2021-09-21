@@ -1,6 +1,7 @@
 # Justin Garrison (He/Him)
 
 Justin maintains a blog at [justingarrison.com](http://justingarrison.com).
+He has a newsletter to teach you how to be a better developer at [123dev.email](https://123dev.email).
 You can check out the book he co-authored [Cloud Native Infrastructure](http://www.cnibook.info).
 Find his [past speaking engagements](https://github.com/rothgar/rothgar/blob/master/SPEAKING.md), a [speaker bio](https://github.com/rothgar/rothgar/blob/master/BIO.md), and headshots [here](https://github.com/rothgar/rothgar/tree/master/img).
 
