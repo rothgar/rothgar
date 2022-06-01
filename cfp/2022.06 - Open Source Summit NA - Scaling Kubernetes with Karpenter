@@ -10,3 +10,6 @@ This leads to complex configuration, label proliferation, and cluster sprawl.
 What we need is workload native compute scaling for any Kubernetes cluster.
 Karpenter is a new way to scale clusters by provisioning compute nodes that workloads need.
 Heterogeneous compute infrastructure helps simplify configuration and utilize clusters for more workload types.
+
+## Status
+rejected
