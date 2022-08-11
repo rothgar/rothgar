@@ -1,3 +1,1 @@
-Justin is a developer advocate at AWS where he helps improve cloud services for everyone.
-He has made Oscar winning movies and built infrastructure for popular streaming services.
-In his spare time he enjoys tinkering with hardware and streaming Moana on repeat.
+Justin is a developer advocate at AWS where he helps improve cloud services for everyone. He has made Oscar winning movies and built infrastructure for popular streaming services. In his spare time he tinkers with hardware and streams Moana on repeat.
