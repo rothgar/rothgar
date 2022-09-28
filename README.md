@@ -7,6 +7,8 @@ I co-authored a book called [Cloud Native Infrastructure](http://www.cnibook.inf
 
 If you want me to speak at your event or company for work please email rothgar@amazon.com
 If you want me to speak at your community event for personal or open source please email justin@linux.com
+If you're looking for profile images please look in the [img](./img/) folder.
+If you need my BIO please use [BIO.md](BIO.md)
 
 I'm available online at
 
