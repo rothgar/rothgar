@@ -1,13 +1,9 @@
 These are some profile pictures and images you can use for talks and meetups.
+There are round and square options for the profile images.
 
-profile.jpeg
+![](smile-round.png)
+![](what-yellow-round.png)
+![](hey-round.png)
+![](surprised-round.png)
 
-![](profile_small.jpeg)
-
-profile_dark.png
-
-![](profile_dark.png)
-
-profile_standee.png
-
-![](profile_standee.png)
+Images were made with (pfpmaker)[https://pfpmaker.com/]
