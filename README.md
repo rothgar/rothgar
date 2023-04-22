@@ -19,3 +19,4 @@ I'm available online at
 
 If you'd like to schedule a call use [calendly](https://calendly.com/justingarrison/30min).
 Please, contact me first or I will decline the invite.
+<a rel="me" href="https://mastodon.social/@jgarr"></a>
