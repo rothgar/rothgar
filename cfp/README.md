@@ -1,17 +1,6 @@
 # CFPs
 
-These are Justin's CFPs.
+My CFPs are open sourced and searchable on my website.
 
-Each CFP is titled with
+https://justingarrison.com/cfp
 
-The year and month it was submitted, the conference it was submitted to, and the title of the talk
-
-```
-2020.01 - Conference - Talk Title
-```
-
-The CFPs will usually have a status of `Submitted`, `Accepted`, or `Rejected`.
-
-Talk acceptance percentage is 32%
-
-![](chart.png)
