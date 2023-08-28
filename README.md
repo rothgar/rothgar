@@ -13,7 +13,7 @@ If you need my BIO please use [BIO.md](BIO.md)
 I'm available online at
 
 - [youtube](https://youtube.com/c/justingarrison)
-- [twitter](https://twitter.com/rothgar)
+- [Bluesky](https://bsky.app/profile/justingarrison.com)
 - [linkedin](https://www.linkedin.com/in/justingarrison/)
 - [resume](https://www.justingarrison.com/resume.html)
 
